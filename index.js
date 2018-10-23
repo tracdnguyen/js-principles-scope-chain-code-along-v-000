@@ -19,4 +19,6 @@ function changeLeastFavoriteCustomer() {
   reassignLeastFavorite = "new value"
 }
 
-const attemptTwoFavoriteCustomers = "bob"
+function attemptTwoFavoriteCustomers() {
+  
+}
